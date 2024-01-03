@@ -1,6 +1,6 @@
 ---
 weight: 999
-title: "Example Pagetwo"
+title: "Example Page2"
 description: ""
 icon: "article"
 date: "2024-01-03T17:35:44+01:00"
