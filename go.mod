@@ -1,6 +1,6 @@
 module kosmeda
 
-go 1.23
+go 1.21
 
 require (
 	github.com/colinwilson/lotusdocs v0.1.0 // indirect

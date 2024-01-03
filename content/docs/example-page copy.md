@@ -1,9 +1,9 @@
 +++
-weight = 100
+weight = 50
 date = "2023-05-03T22:37:22+01:00"
 draft = true
 author = "Colin Wilson"
-title = "Quickstart"
+title = "Quickstar2"
 icon = "rocket_launch"
 toc = true
 description = "A quickstart guide to creating new content in Lotus Docs"
